@@ -1,5 +1,5 @@
 # App
-ro.launcher.blur.appLaunch=0
+#ro.launcher.blur.appLaunch=0
 
 # Bluetooth
 persist.bluetooth.a2dp_aac.vbr_supported=true
@@ -58,7 +58,7 @@ debug.cpurend.vsync=false
 ro.recovery.ui.margin_height=48
 
 # Priv-app permissions whitelist
-ro.control_privapp_permissions=log
+#ro.control_privapp_permissions=log
 
 # WiFi
 wifi.interface=wlan0
